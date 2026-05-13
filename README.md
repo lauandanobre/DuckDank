@@ -1,6 +1,6 @@
 ## Quem é o DuckDank, afinal?
 
-> Disponível online em **[JOGAR DUCKDANK AGORA](https://lauanda-nobre.github.io/DuckDank/)**
+> Disponível online em **[JOGAR DUCKDANK AGORA](https://lauandanobre.github.io/DuckDank/)**
 
 O **DuckDank** não é apenas um oponente estático.
 Ele foi projetado para ter “vida própria” durante a partida, funcionando como um verdadeiro adversário no jogo da velha.
