@@ -1,6 +1,6 @@
 ## Quem é o DuckDank, afinal?
 
-> Disponível online em **[JOGAR DUCKDANK AGORA](https://lauandanobre.github.io/DuckDank/)**
+> Disponível online em **[JOGAR GAME](https://lauandanobre.github.io/DuckDank/)**
 
 O **DuckDank** não é apenas um oponente estático.
 Ele foi projetado para ter “vida própria” durante a partida, funcionando como um verdadeiro adversário no jogo da velha.
@@ -61,5 +61,4 @@ Para documentar o progresso do desenvolvimento, abaixo está a comparação entr
 O DuckDank nasceu como um experimento simples que surgiu em minha mente durante uma viagem de ônibus, mas evoluiu para um projeto que mistura **lógica de jogo, interatividade, animação e personalidade.**
 O foco principal foi transformar uma mecânica clássica em algo mais envolvente e inesperado.
 
-Isso é tudo.
-**(:**
+Isso é tudo... (:
