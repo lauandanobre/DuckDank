@@ -22,7 +22,7 @@ let cont = 0
 let repouso = false
 let tempo = 0
 let iniciarJogo = false
-let vencedor
+let vencedor = null
 let andar = 0
 let espera = 0
 let tempoDeChamadaDuckPixels = [1,22,50,25,20,5,50,55,7,31,18,220,300,10,63,110,35,75,130,95,80,40,17,45,37,13,330,90,98,12,15,85,125]
