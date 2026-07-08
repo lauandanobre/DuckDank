@@ -27,9 +27,13 @@ header{
 	position: absolute;
 	display: none;
 }
-#btn1,#btn2{
-	background: transparent;
-	border: none;
+nav a{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#btn1{
 	cursor: pointer;
 }
 @media only screen and (max-width: 728px) {
@@ -46,7 +50,7 @@ header{
     	top: 12px;
         right: 12px;
 	}
-	.btn1,.btn2{
+	.btn1{
 		margin-right: 10px;
 		width: 26px;
 		height: 26px;
@@ -74,7 +78,7 @@ header{
     	top: 12px;
     	right: 12px;
 	}
-	.btn1,.btn2{
+	.btn1{
 		margin-right: 10px;
 		width: 20px;
 		height: 20px;
