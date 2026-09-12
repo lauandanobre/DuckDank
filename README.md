@@ -3,7 +3,10 @@
 Um verdadeiro jogador de jogo da velha(Tic-Tac-Toy).
 **Duck Dank** foi projetado para ter “vida própria” durante a partida, funcionando como um verdadeiro adversário no jogo da velha.
 
-[Jogar](auandanobre.github.io/DuckDank/)
+Você pode jogar clicando [aqui](lauandanobre.github.io/DuckDank/)
+
+![Gif duckdank jogo](./readme/duckdank.gif)
+
 
 Em vez de utilizar uma lógica previsível, ou algoritmos como o **Minimax** o comportamento do DuckDank foi desenvolvido combinando diferentes algoritmos que tornam suas ações **dinâmicas, imprevisíveis e interativas** — simulando a tomada de decisões de um jogador real, com alguns erros por parte do pato, inclusive.
 
